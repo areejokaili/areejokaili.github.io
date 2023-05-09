@@ -38,7 +38,7 @@ nav_order: 5
 <h2> Supervision</h2>
 
 <ul>
-<li>[Done] Undergrad Project, Fall/Winter 2022 ,Taste Not Waste: A Recipe Recommender System Using Vector Space Model.
+<li><b>[Done]</b> Undergrad Project, Fall/Winter 2022 ,Taste Not Waste: A Recipe Recommender System Using Vector Space Model.
 </li>
 </ul>
 
