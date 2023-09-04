@@ -32,7 +32,7 @@ nav_order: 5
 
 <ul>
     <li><b>2021-Now</b> Head of IS Bachelor Graduation Project Committee</li>
-    <li><b>2022-Now</b> Member of the CCIS Media and Digital Content Committee</li>
+    <li><b>2022-2023</b> Member of the CCIS Media and Digital Content Committee</li>
     <li><b>2017-2021</b> Member of the <a href='https://www.sheffield.ac.uk/dcs/research/groups/natural-language-processing'>Natural Lanaguage Processing</a> research group</li>
 </ul>
 

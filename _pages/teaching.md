@@ -11,7 +11,8 @@ nav_order: 5
 <ul style="list-style-type: none"> 
     <li> <b>@ KSU, SA</b>
         <ul>
-            <li>Introduction to Database Systems IS230: [Spring 2021][Fall 2022] [Winter 2022] [Spring 2022]</li>
+            <li>Modern Application Development: Programming in Python IS324: [Fall 2023]</li>
+            <li>Introduction to Database Systems IS230: [Spring 2021][Fall 2022] [Winter 2022] [Spring 2022] [Fall 2023]</li>
             <li>Fundamentals and Ethics of Information Systems IS201: [Fall 2015] [Spring 2016]</li>
             <li>Web Applications IT311: [Fall 2014] [Fall 2015]</li>
             <li>Computer Forensics IT454: [Fall 2014] [Spring 2014]</li>
@@ -38,7 +39,9 @@ nav_order: 5
 <h2> Supervision</h2>
 
 <ul>
-<li><b>[Done]</b> Undergrad Project, Fall/Winter 2022 ,Taste Not Waste: A Recipe Recommender System Using Vector Space Model.
+<li>Fall/Winter 2023, Undergrad Project, StreamFlowAI: Stream-Data Management System. </li>
+<li><b>[Done]</b> Fall/Winter 2022, Undergrad Project,Taste Not Waste: A Recipe Recommender System Using Vector Space Model. <br>
+🏆 Won 3rd place in the Public Health Sciences category at the <a href="https://www.adu.ac.ae/conferences-competitions/undergraduate-research-competition/">UAE's 10th Undergraduate Research Competition</a>, among 400 projects! 
 </li>
 </ul>
 
