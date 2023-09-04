@@ -39,7 +39,7 @@ nav_order: 5
 <h2> Supervision</h2>
 
 <ul>
-<li>Fall/Winter 2023, Undergrad Project, StreamFlowAI: Stream-Data Management System. </li>
+<li>[Running] Fall/Winter 2023, Undergrad Project, StreamFlowAI: Stream-Data Management System. </li>
 <li><b>[Done]</b> Fall/Winter 2022, Undergrad Project,Taste Not Waste: A Recipe Recommender System Using Vector Space Model. <br>
 🏆 Won 3rd place in the Public Health Sciences category at the <a href="https://www.adu.ac.ae/conferences-competitions/undergraduate-research-competition/">UAE's 10th Undergraduate Research Competition</a>, among 400 projects! 
 </li>
