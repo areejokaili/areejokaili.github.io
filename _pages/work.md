@@ -12,7 +12,7 @@ nav_order: 5
 
 <table>
   <tr>
-    <td style="width:auto;vertical-align: top; text-align: left;"><b>Aug 2021—Now</b></td>
+    <td style="width:auto;vertical-align: top; text-align: left;"><b>Aug 2021—Present</b></td>
     <td style="width:80%">Assistant Professor – Department of Information Systems, College of Computer and Information Sciences, Riyadh, Saudi Arabia.</td>
   </tr>
   <tr>
@@ -31,8 +31,9 @@ nav_order: 5
 <h2> Professioanl activities and memberships</h2>
 
 <ul>
-    <li><b>2021-Now</b> Head of IS Bachelor Graduation Project Committee</li>
-    <li><b>2022-2023</b> Member of the CCIS Media and Digital Content Committee</li>
-    <li><b>2017-2021</b> Member of the <a href='https://www.sheffield.ac.uk/dcs/research/groups/natural-language-processing'>Natural Lanaguage Processing</a> research group</li>
+    <li><b>2024-Present</b> Member of the IS Quality Committee responsible for the MSc program KPIs evaluation and reporting.</li>
+    <li><b>2021-Present</b> Head of IS Bachelor Graduation Project Committee.</li>
+    <li><b>2022-Present</b> Member of the CCIS Media and Digital Content Committee.</li>
+    <li><b>2017-2021</b> Member of the <a href='https://www.sheffield.ac.uk/dcs/research/groups/natural-language-processing'>Natural Lanaguage Processing</a> research group.</li>
 </ul>
 
